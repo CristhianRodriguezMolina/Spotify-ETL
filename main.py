@@ -3,8 +3,8 @@ import requests
 import psycopg2
 
 # CREDENTIALS
-CLIENT_ID = '4ae4c39d96574aff818db438972a40ce'
-CLIENT_SECRET = '0ba53f9d5ce3489481de473add460ff7'
+CLIENT_ID = '4ae4c39d96574aff818d*****'
+CLIENT_SECRET = '0ba53f9d5ce3489481de47*****'
 
 AUTH_URL = 'https://accounts.spotify.com/api/token'
 
