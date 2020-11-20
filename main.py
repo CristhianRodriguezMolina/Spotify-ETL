@@ -127,7 +127,7 @@ def execute_sql(sql):
     try:
         # Connection parameters to data base
         connection = psycopg2.connect(user="postgres",
-                                      password="cristhi@n",
+                                      password="*********",
                                       host="127.0.0.1",
                                       port="5000",
                                       database="spotify_db")
